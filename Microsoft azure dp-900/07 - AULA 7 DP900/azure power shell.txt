@@ -1,0 +1,32 @@
+Requesting a Cloud Shell.Succeeded. 
+Connecting terminal...
+
+Welcome to Azure Cloud Shell
+
+Type "az" to use Azure CLI
+Type "help" to learn about Cloud Shell
+
+pablo [ ~ ]$ git clone https://github.com/MicrosoftLearning/DP-900T00A-Azure-Data-Fundamentals dp-900
+Cloning into 'dp-900'...
+remote: Enumerating objects: 4185, done.
+remote: Counting objects: 100% (560/560), done.
+remote: Compressing objects: 100% (249/249), done.
+remote: Total 4185 (delta 330), reused 457 (delta 285), pack-reused 3625
+Receiving objects: 100% (4185/4185), 8.26 MiB | 30.77 MiB/s, done.
+Resolving deltas: 100% (1047/1047), done.
+pablo [ ~ ]$ cd dp-900/streaming
+pablo [ ~/dp-900/streaming ]$ bash setup.sh
+Installing required Azure CLI extensions - this may take a few minutes...
+The installed extension 'stream-analytics' is experimental and not covered by customer support. Please use with discretion.
+Using the learn-bb3b6843-27b3-41bb-af12-794a97fa11b9 resource group...
+Creating IoT hub...
+Creating storage...
+Creating Stream Analytics job...
+Command group 'stream-analytics' is experimental and under development. Reference and support levels: https://aka.ms/CLI_refstatus
+Command group 'stream-analytics' is experimental and under development. Reference and support levels: https://aka.ms/CLI_refstatus
+Command group 'stream-analytics' is experimental and under development. Reference and support levels: https://aka.ms/CLI_refstatus
+Command group 'stream-analytics' is experimental and under development. Reference and support levels: https://aka.ms/CLI_refstatus
+pablo [ ~/dp-900/streaming ]$ bash iotdevice.sh
+This command is experimental and under development. Reference and support levels: https://aka.ms/CLI_refstatus
+Device simulation in progress: 100%|###############################################| 120/120 [02:13<00:00,  1.11s/it]
+pablo [ ~/dp-900/streaming ]$ 

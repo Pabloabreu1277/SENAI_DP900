@@ -1,0 +1,3 @@
+https://learn.microsoft.com/pt-br/certifications/azure-data-fundamentals/
+
+https://portal.azure.com/?Microsoft_Azure_Education_correlationId=06f52277c9a745d282bbff61bc6cabd1&Microsoft_Azure_Education_newA4E=true&Microsoft_Azure_Education_asoSubGuid=74c117d1-42aa-450a-bd8d-9adad23f8db0#home

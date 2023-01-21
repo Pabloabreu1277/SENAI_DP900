@@ -1,0 +1,3 @@
+AULA 9
+
+https://microsoftlearning.github.io/DP-900T00A-Azure-Data-Fundamentals/Instructions/Labs/dp900-pbi-06-lab.html

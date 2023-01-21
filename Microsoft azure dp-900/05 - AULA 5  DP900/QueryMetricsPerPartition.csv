@@ -1,0 +1,2 @@
+Partition key range id,Retrieved document count,Retrieved document size (in bytes),Output document count,Output document size (in bytes),Index hit document count,Index lookup time (ms),Document load time (ms),Query engine execution time (ms),System function execution time (ms),User defined function execution time (ms),Document write time (ms)
+0,1,252,1,89,1,0.36000000000000004,0.02,0.04,0.02,0,0
